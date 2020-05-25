@@ -17,7 +17,7 @@ class ViewController: NSViewController {
     }
     
     /**
-     Adds two numbers together and returns the result.
+     Adds two numbers together and returns the result. Modified.
      - parameter num1: the first number
      - parameter num2: the second number
      - returns: The sum of num1 and num2
